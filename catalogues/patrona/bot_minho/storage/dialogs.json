@@ -1,0 +1,4091 @@
+{
+    "0": {
+        "ru": "Привет, *. Это Минхо! ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Hello, *. It's Minho!"
+    },
+    "1": {
+        "ru": "Ты же участвовала в конкурсе \"Волшебное свидание с айдолом\"? Поздравляю — ты выиграла виртуальное свидание со мной! ;)",
+        "choices": [
+            "2"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Didn't you participate in the \"Magic date with an idol\" contest? Congratulations, you've won a virtual date with me! ;)"
+    },
+    "2": {
+        "ru": "Привет! Я не совсем понимаю о чём речь. Какой Минхо? 🤔",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Hey! I don't know what you're talking about, what Minho? 🤔"
+    },
+    "3": {
+        "ru": "КАК? Ты шутишь?!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "WHAT? Are you kidding me?!"
+    },
+    "4": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol1.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "5": {
+        "ru": "Вот, это же я! И у нас с тобой состоится виртуальное свидание.👍👍👍",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "There, that's me! And you and I are going on a virtual date. 👍👍👍"
+    },
+    "6": {
+        "ru": "Ты рада? ",
+        "choices": [
+            "7"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Are you excited?"
+    },
+    "7": {
+        "ru": "Эмм, ты, конечно, супер красавчик, но я всё еще не понимаю что происходит! 😅",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Erm, you're super cute, of course, but I still don't understand what's going on! 😅"
+    },
+    "8": {
+        "ru": "Ты разве не участвовала в конкурсе? Для того, чтобы познакомиться со мной, нужно было записать оригинальный музыкальный трек, выложить его в соцсетях и ждать результатов...",
+        "choices": [
+            "9"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Didn't you participate in the contest? To meet me you had to record an original music track, post it on social media and wait for the results..."
+    },
+    "9": {
+        "ru": "Нет... Здесь, наверное, какая-то ошибка.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "No... There must be some mistake."
+    },
+    "10": {
+        "ru": "Но как же, ты же *. И номер верный.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It can't be, you are *. And the number is correct."
+    },
+    "11": {
+        "ru": "Кроме того, я ведь слышал твой трек! Он прекрасен, мне очень понравилось. Я бы хотел спеть его с тобой 🌹",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Also, I listened to your track! It's beautiful, I really liked it. I would love to sing it with you 🌹"
+    },
+    "12": {
+        "ru": "Именно поэтому я и выбрал тебя — ты очень талантлива. Твоя музыка понравилась мне больше всех.",
+        "choices": [
+            "13"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "That's why I chose you: you are very talented. Your song was the one I liked the most."
+    },
+    "13": {
+        "ru": "Это как-то странно. Я действительно пишу музыку, но я ничего никуда не выкладывала.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "It's a bit weird. I do make music, but I haven't published anything anywhere."
+    },
+    "14": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": "song.mp3",
+        "event": null,
+        "en": null
+    },
+    "15": {
+        "ru": "Это же твоя песня?",
+        "choices": [
+            "16"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Isn't that your song?"
+    },
+    "16": {
+        "ru": "Моя, точно!!! Но я понятия не имею, как она там оказалась. ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "It's mine, no doubt! But I have no idea how it got there."
+    },
+    "17": {
+        "ru": "Может быть, ты просто забыла? С творческими людьми такое случается 😅",
+        "choices": [
+            "18"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Maybe you've forgotten? It happens to creative people 😅"
+    },
+    "18": {
+        "ru": "Я абсолютно точно нигде не участвовала, разве что...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I never entered any contest, unless..."
+    },
+    "19": {
+        "ru": "Разве что?",
+        "choices": [
+            "20"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Unless what?"
+    },
+    "20": {
+        "ru": "Моя подруга. Она любитель вмешиваться в мою жизнь, не спросив меня))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "A friend of mine. She likes to butt into my life without asking me:))"
+    },
+    "21": {
+        "ru": "Это как?",
+        "choices": [
+            "22"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "How's that?"
+    },
+    "22": {
+        "ru": "Я пишу музыку для себя. А она твердит, что мне нужно развиваться, и всегда заставляет участвовать в чем-то подобном. ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I make music for myself. And she keeps telling me that I have to evolve and forces me to participate in stuff like that."
+    },
+    "23": {
+        "ru": "А ты?)",
+        "choices": [
+            "24"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "And do you?:))"
+    },
+    "24": {
+        "ru": "А я никогда этого не делаю 😜",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I never do 😜"
+    },
+    "25": {
+        "ru": "Но почему?! Ты невероятно талантлива. 👏",
+        "choices": [
+            "26",
+            "53"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But why? You're incredibly talented. 👏"
+    },
+    "26": {
+        "ru": "Потому что я стесняюсь.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Because I'm shy."
+    },
+    "27": {
+        "ru": "ОМГ! Так ты скромница? 😉",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "OMG! So you are shy 😉 😉"
+    },
+    "28": {
+        "ru": "По твоей музыке этого не скажешь. В ней чувствуется твоя страстная и  увлеченная натура.",
+        "choices": [
+            "29"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It's hard to tell by your music. I can feel your passionate and enthusiastic nature in it."
+    },
+    "29": {
+        "ru": "Ну, увлеченности у меня и правда не отнять, но страстность — это не про меня😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Well, I am enthusiastic but I'm not passionate at all 😊"
+    },
+    "30": {
+        "ru": "Любопытно. Но почему ты так считаешь?",
+        "choices": [
+            "31"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Interesting. Why do you think so?"
+    },
+    "31": {
+        "ru": "Мне не нравится внимание. Я не представляю как вести себя на публике. Все эти взгляды... Это не по мне.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I don't like the attention. I have no idea how to behave in public. All the stares... It's not for me."
+    },
+    "32": {
+        "ru": "Понимаю, у меня тоже была проблема с боязнью сцены.",
+        "choices": [
+            "33"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I know, I had a stage fright problem too."
+    },
+    "33": {
+        "ru": "Да ладно, но ты ведь айдол! Как это возможно?! 😲",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Come on, but you're an idol! How is that possible? 😲"
+    },
+    "34": {
+        "ru": "Никому не говори, но я тоже человек 😉",
+        "choices": [
+            "35"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Don't tell anyone, but I'm human too 😉 "
+    },
+    "35": {
+        "ru": "Ахах) Я сохраню твой секрет 😁",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Hahaha:) I will keep your secret 😁 "
+    },
+    "36": {
+        "ru": "Благодарю 💕",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Thank you 💕"
+    },
+    "37": {
+        "ru": "Так вот, когда-то мне тоже было сложно выступать...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "So, I used to struggle with going on stage, too... "
+    },
+    "38": {
+        "ru": "Я всегда любил музыку, но выступать на публике было так страшно, что у меня от волнения потели ладошки и пропадал голос.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I've always loved music, but performing in public was so scary for me that my palms would sweat and I'd lose my voice."
+    },
+    "39": {
+        "ru": "Как-то раз, когда я только ходил на прослушивания, я должен был выступать перед продюсерами.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Once, when I was auditioning, I had to perform in front of the producers."
+    },
+    "40": {
+        "ru": "Очень важное выступление, и все вокруг такие серьезные. Я вышел на сцену, и знаешь что произошло?!",
+        "choices": [
+            "41"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It was a very important audition, and everyone was very serious. I went on stage and guess what happened!"
+    },
+    "41": {
+        "ru": "Что?))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What?:)"
+    },
+    "42": {
+        "ru": "Я начал петь, а потом от ужаса и волнения у меня закружилась голова, и я упал в обморок 😅",
+        "choices": [
+            "43"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I started singing and then I got dizzy from all the terror and excitement and fainted 😅"
+    },
+    "43": {
+        "ru": "Какой кошмар! Мне так жаль(((",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What a nightmare! I'm so sorry:((("
+    },
+    "44": {
+        "ru": "Дааа, было неприятно! Но, несмотря на это, меня всё равно взяли в моё первое шоу 👌 ",
+        "choices": [
+            "45"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Yeah, it wasn't pleasant! But despite that, they got me on my first show 👌"
+    },
+    "45": {
+        "ru": "Как? ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "How?"
+    },
+    "46": {
+        "ru": "Ну, я талантливый)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, I'm talented:)"
+    },
+    "47": {
+        "ru": "А ещё безумно красивый 😎",
+        "choices": [
+            "48"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm also incredibly handsome 😎"
+    },
+    "48": {
+        "ru": "А ты знаешь себе цену 😉",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "And you know what you're worth 😉 "
+    },
+    "49": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol2.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "50": {
+        "ru": "Это правда, раньше я стеснялся всего вокруг, но сейчас я веду себя на сцене вот так :)",
+        "choices": [
+            "51"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It's true, I used to be shy about everything, but now I act like that on the stage :)"
+    },
+    "51": {
+        "ru": "Ух ты... У меня нет слов, ты очень горяч! 😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wow... I'm speechless, you're so hot! 😊"
+    },
+    "52": {
+        "ru": "Спасибо, * 😘",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": "82",
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Thank you, * 😘"
+    },
+    "53": {
+        "ru": "Я недостаточно хороша.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm not good enough."
+    },
+    "54": {
+        "ru": "Внешность — это не главное!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Looks aren't what's important."
+    },
+    "55": {
+        "ru": "Хотя погоди...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Oh, wait..."
+    },
+    "56": {
+        "ru": "Я ведь видел твои фото в соцсетях — ты очень привлекательна! 🌹😍",
+        "choices": [
+            "57"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I've seen your pictures on social media: you're very attractive! 🌹😍"
+    },
+    "57": {
+        "ru": "Спасибо, конечно, но я не об этом))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Thank you, of course, but that's not what I mean:)"
+    },
+    "58": {
+        "ru": "А, понимаю, профессионализм?",
+        "choices": [
+            "59"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Ah, I see, are you talking about professionalism?"
+    },
+    "59": {
+        "ru": "Ага, именно это! Я не считаю себя настолько подготовленной, чтобы выставлять свои работы на показ.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes, that's exactly it. I don't consider myself that prepared to exhibit my work."
+    },
+    "60": {
+        "ru": "Всё должно быть идеально, верно?",
+        "choices": [
+            "61"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Everything has to be perfect, right?"
+    },
+    "61": {
+        "ru": "Да-да! Именно об этом я и говорю. Если я что-то делаю, это должно быть совершенно. Иначе это профанация.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes! That's exactly what I mean. If I do something, it has to be perfect. If it's not, it's profanity."
+    },
+    "62": {
+        "ru": "Мне кажется, ты слишком строга к себе))",
+        "choices": [
+            "63"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I think you're being too hard on yourself:)"
+    },
+    "63": {
+        "ru": "Я просто стараюсь сделать всё качественно, чтобы мне не было стыдно за свои работы 😅",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I just try to do everything properly so I'm not ashamed of my work 😅"
+    },
+    "64": {
+        "ru": "Ты перфекционист, да? ",
+        "choices": [
+            "65"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You're a perfectionist, aren't you?"
+    },
+    "65": {
+        "ru": "О да, я такая)))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Oh, yes, I am:))))"
+    },
+    "66": {
+        "ru": "Прекрасно тебя понимаю)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I totally get you :))"
+    },
+    "67": {
+        "ru": "Я сам очень долго боролся с этим.",
+        "choices": [
+            "68"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I've struggled with it for a long time too."
+    },
+    "68": {
+        "ru": "Но зачем? Разве стремиться к совершенству — это плохо?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "But why, is it bad to strive for perfection?"
+    },
+    "69": {
+        "ru": "В погоне за идеальным мы обесцениваем очень хорошее, а ещё изводим себя страданиями.",
+        "choices": [
+            "70"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "In the pursuit of perfection, we devalue the very good and just torment ourselves."
+    },
+    "70": {
+        "ru": "К тому же, совершенства не существует! ✨",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Besides, there is no such thing as perfection! ✨"
+    },
+    "71": {
+        "ru": "Как это не существует? А ты? 😜😉",
+        "choices": [
+            "72"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "What do you mean, there's no such thing? What are you then? 😜😉"
+    },
+    "72": {
+        "ru": "Ахах! А мне нравится ход твоих мыслей)))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Hahaha! I like your way of thinking:))))"
+    },
+    "73": {
+        "ru": "Мой продюсер убьет меня, если узнает, что я сказал тебе это, но я совсем не совершенен.😅",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "My producer would kill me if he knew I said that to you, but I'm far from perfect 😅"
+    },
+    "74": {
+        "ru": "Впрочем, для каждого из нас совершенство —  оно своё!",
+        "choices": [
+            "75"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "However, for each of us, perfection is different."
+    },
+    "75": {
+        "ru": "И какое твоё? ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "And what is yours?"
+    },
+    "76": {
+        "ru": "Например, твоя музыка. Не прячь её от мира, и тогда...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Your music, for one. Don't hide it from the world and then..."
+    },
+    "77": {
+        "ru": "Ты не будешь думать о том, что что-то идет не так.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You won't have to think about things going wrong."
+    },
+    "78": {
+        "ru": "Сможешь расслабиться и вести себя на сцене вот так",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You'll be able to relax and perform like that on stage."
+    },
+    "79": {
+        "ru": null,
+        "choices": [
+            "80"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol2.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "80": {
+        "ru": "Ух ты... У меня нет слов, ты очень горяч! 😍",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wow... I'm speechless, you're so hot! 😍"
+    },
+    "81": {
+        "ru": "Спасибо, * 😘",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Thank you, * 😘"
+    },
+    "82": {
+        "ru": "Так что, если мы всё обсудили, то ты согласна на виртуальное свидание со мной?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "So, if we've discussed everything, will you accept a virtual date with me?"
+    },
+    "83": {
+        "ru": "Даже без всякого конкурса я бы хотел узнать тебя поближе.",
+        "choices": [
+            "84"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Even without the contest, I'd like to get to know you better."
+    },
+    "84": {
+        "ru": "Нууу, раз уж мы здесь, и мне пишет сам Минхо, то как я могу отказаться😜",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Well, since we're here and Minho himself is texting me, how can I refuse😜"
+    },
+    "85": {
+        "ru": "Правильное решение! Ты не пожалеешь😉",
+        "choices": [
+            "86"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Good decision! You won't regret it😉 "
+    },
+    "86": {
+        "ru": "Я надеюсь))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I hope so:))"
+    },
+    "87": {
+        "ru": "Чем бы ты хотела заняться?)",
+        "choices": [
+            "88"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "What would you like to do? :)"
+    },
+    "88": {
+        "ru": "Не знаю, я никогда не ходила на виртуальные свидания) Как это бывает? 😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I don't know, I've never been on a virtual date:)) How do you do it? 😊"
+    },
+    "89": {
+        "ru": "Ну, признаться честно, у меня тоже нет в этом опыта) ",
+        "choices": [
+            "90"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, to be honest, I have no experience either:))"
+    },
+    "90": {
+        "ru": "Что же нам тогда делать?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What should we do then?"
+    },
+    "91": {
+        "ru": "Я предлагаю просто пообщаться и узнать друг друга лучше. А там как пойдет)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I suggest we chat and get to know each other better. And then we'll see:)))"
+    },
+    "92": {
+        "ru": "Как тебе идея?)))",
+        "choices": [
+            "93"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "How do you like the idea?:)))"
+    },
+    "93": {
+        "ru": "Мне нравится! Начинай 😜",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I like it! Go for it 😜"
+    },
+    "94": {
+        "ru": "Ок! Тогда расскажи о себе. Опиши себя одним словом))",
+        "choices": [
+            "95",
+            "129"
+        ],
+        "choices_param": [
+            {
+                "check_args": "0",
+                "on_choice": "tender++2"
+            },
+            {
+                "check_args": "0",
+                "on_choice": "tender==0"
+            }
+        ],
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Ok! So tell me about yourself. Describe yourself in one word:)))"
+    },
+    "95": {
+        "ru": "Я нежная. 😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm sweet. 😊"
+    },
+    "96": {
+        "ru": "Ммм, расскажи подробнее)",
+        "choices": [
+            "97"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Mmmm, tell me more:))"
+    },
+    "97": {
+        "ru": "Вечерами я очень люблю читать книги, уютно устроившись под пледом. Обожаю романы Бронте и Джейн Остин))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "In the evenings, I really like to read books, curled up under a blanket. I love Bronte and Jane Austen novels:)))"
+    },
+    "98": {
+        "ru": "Как это трогательно:) Мне очень нравится!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "So cute:) I love it!"
+    },
+    "99": {
+        "ru": "А что еще?😊",
+        "choices": [
+            "100"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "What else?😊"
+    },
+    "100": {
+        "ru": "Люблю гулять по ночному городу после дождя. Мне очень нравится, как мокрый асфальт отражает свет фонарей. Это выглядит...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I love walking around the city at night after the rain. I love how the wet asphalt reflects the light of the street lamps. It looks..."
+    },
+    "101": {
+        "ru": "Волшебно, да?",
+        "choices": [
+            "102"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Magical, doesn't it?"
+    },
+    "102": {
+        "ru": "Да, точно! Словно ты оказался в какой-то чудесной стране. К тому же, на улицах мало людей и очень спокойно)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes, that's the word. It's like being in a wonderland. Plus, there aren't many people on the streets and it's very quiet:)"
+    },
+    "103": {
+        "ru": "Ты так красиво это описала, что мне захотелось отправиться с тобой на такую прогулку!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You described it so well that it made me want to go on that walk with you."
+    },
+    "104": {
+        "ru": "Обещай, что в следующий раз обязательно позовешь меня с собой! ✨",
+        "choices": [
+            "105"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Promise you'll invite me for a walk next time! ✨"
+    },
+    "105": {
+        "ru": "Ты серьезно?! ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Are you serious?!"
+    },
+    "106": {
+        "ru": "Абсолютно. А что тебя удивляет?",
+        "choices": [
+            "107"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Of course. Why are you surprised?"
+    },
+    "107": {
+        "ru": "Ну ты же очень популярен. Если нас увидят вместе — твои фанатки разорвут нас на части😖",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Well, you're famous. If we're seen together, your fans will tear us apart😖"
+    },
+    "108": {
+        "ru": "Ох, это. Точно, ты права...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Oh, that. Right, you're right..."
+    },
+    "109": {
+        "ru": "Я порой забываю о том, что для меня есть правила, которые нельзя нарушать(",
+        "choices": [
+            "110"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Sometimes I forget that there are rules for me that can't be broken:("
+    },
+    "110": {
+        "ru": "Мне жаль, что это так, но у известности есть свои преимущества, правда?)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm sorry it's like that, but fame has its perks, doesn't it?:)"
+    },
+    "111": {
+        "ru": "Конечно, Но иногда так хочется почувствовать себя обычным человеком, делать то что хочется😢",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Of course, but sometimes I want to feel like a normal person and do whatever I want so much😢"
+    },
+    "112": {
+        "ru": "Например, погулять с человеком, который тебе искренне нравится ❤️",
+        "choices": [
+            "113"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Like going for a walk with someone I really like ❤️"
+    },
+    "113": {
+        "ru": "Эмм, я нравлюсь ТЕБЕ?😳",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Do YOU like me? 😳"
+    },
+    "114": {
+        "ru": "Ну конечно)) Ты талантливая, романтичная и очень интересная!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Of course I do:)) You're talented, romantic and very interesting!"
+    },
+    "115": {
+        "ru": "К тому же, ты не моя фанатка, а мне очень редко удается пообщаться с людьми не как поп-звезде, а как обычному человеку)",
+        "choices": [
+            "116"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Also, you're not my fan and I very rarely talk to people not as a pop star but as a normal person:)"
+    },
+    "116": {
+        "ru": "😊😊😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "😊😊😊"
+    },
+    "117": {
+        "ru": "Ради тебя я готов рискнуть! Поэтому мы обязательно пойдем гулять после дождя)))",
+        "choices": [
+            "118"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm willing to take a risk for you! So we'll definitely go for a walk after the rain:)))"
+    },
+    "118": {
+        "ru": "Тогда я куплю нам одинаковые бейсболки и черные очки, чтобы никто не смог нас узнать. Будем представлять, что мы шпионы! 😎",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Then I'll buy us matching baseball caps and black glasses so no one will recognize us. We'll pretend we're spies! 😎"
+    },
+    "119": {
+        "ru": "Шикарный план! Жду не дождусь когда это случится😘",
+        "choices": [
+            "120"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "That's an awesome plan! I can't wait for it to happen😘"
+    },
+    "120": {
+        "ru": "А что насчет тебя? Чем ты занимаешься помимо музыки?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What about you, what do you do besides music?"
+    },
+    "121": {
+        "ru": "На самом деле у меня не так уж много времени, которое я могу посвятить себе.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I don't really have much time to dedicate to myself."
+    },
+    "122": {
+        "ru": "Постоянные репетиции, концерты, примерки, гастроли. А сколько подготовительной работы...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Constant rehearsals, concerts, fitting, touring. And all the preparatory work...."
+    },
+    "123": {
+        "ru": "Сейчас вся моя жизнь — это сцена, но ещё должен поддерживать хорошую физическую форму, поэтому я постоянно бываю в спортзале 💪💪💪",
+        "choices": [
+            "124"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Performing is my whole life, but I also have to keep myself in good shape, so I'm always in the gym 💪💪💪💪."
+    },
+    "124": {
+        "ru": "Это тяжело?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Is it hard?"
+    },
+    "125": {
+        "ru": "Нууу... да, но я получаю от этого удовольствие.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well... Yes, but I'm enjoying it."
+    },
+    "126": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol3.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "127": {
+        "ru": "К тому же, мне нравится результат 😜",
+        "choices": [
+            "128"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Plus, I like the result 😜"
+    },
+    "128": {
+        "ru": "Ммм, мне тоже 😍",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": "155",
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Mmm, me too 😍"
+    },
+    "129": {
+        "ru": "Я упорная. 😎",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm persistent. 😎"
+    },
+    "130": {
+        "ru": "Так, очень интригующе, но я хочу подробностей!",
+        "choices": [
+            "131"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Okay, very intriguing, but I want details!"
+    },
+    "131": {
+        "ru": "Я знаю чего хочу, ставлю цели и иду к ним. Даже если мне очень-очень тяжело. Я считаю, что моё счастье того стоит.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I know what I want, I set goals and I go for it. Even if it's really, really hard. I think my happiness is worth it."
+    },
+    "132": {
+        "ru": "То есть, ты целеустремленная и всегда добиваешься всего упорством и усердием?)",
+        "choices": [
+            "133"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "So you are goal-oriented and you achieve your goals with persistence and diligence:)"
+    },
+    "133": {
+        "ru": "Я стараюсь добиваться.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I try to get things done."
+    },
+    "134": {
+        "ru": "Не всегда выходит?",
+        "choices": [
+            "135"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Doesn't it always work?"
+    },
+    "135": {
+        "ru": "Мы живем в неидеальном мире, я не могу контролировать вообще всё. Но то, что зависит от меня, я стараюсь делать на 200 % 😁",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "We live in a non-ideal world, I can't control everything. But what depends on me, I try to do it 200 % 😁"
+    },
+    "136": {
+        "ru": "Вау! Вот это характер! Я завидую твоей силе воли!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Wow, what a personality, I envy your willpower!"
+    },
+    "137": {
+        "ru": "Ты потрясающая! 😍",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "You're awesome! 😍"
+    },
+    "138": {
+        "ru": "Но я рад, что мы живем не в идеальном мире)))",
+        "choices": [
+            "139"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But I'm glad we don't live in a perfect world:)))"
+    },
+    "139": {
+        "ru": "Почему это?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Why?"
+    },
+    "140": {
+        "ru": "Если бы он был идеальным, то не существовало бы людей, которые делали бы его лучше))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "If it was perfect, there wouldn't be people to make it better:))"
+    },
+    "141": {
+        "ru": "Таких как ты😘",
+        "choices": [
+            "142"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "People like you😘"
+    },
+    "142": {
+        "ru": "Ты меня смущаешь)))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "You embarrass me:)))"
+    },
+    "143": {
+        "ru": "Но я говорю правду! Я восхищаюсь тобой и тем, какая ты)",
+        "choices": [
+            "144"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But I'm telling the truth! I admire you:)"
+    },
+    "144": {
+        "ru": "А разве ты не такой? Тебе ведь приходится так много работать. Гораздо больше, чем мне.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Aren't you like me? After all, you have to work hard. Much more than me."
+    },
+    "145": {
+        "ru": "Ну, в чём-то ты права. Правда, у меня есть команда, и они очень помогают мне)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, you're kinda right. But I have a team and they help me a lot:)"
+    },
+    "146": {
+        "ru": "Но мне всё равно хотелось бы больше времени уделять себе.",
+        "choices": [
+            "147"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But I still wish I had more time for myself."
+    },
+    "147": {
+        "ru": "Ты постоянно занят, да?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "You're always busy, aren't you?"
+    },
+    "148": {
+        "ru": "Да, постоянные репетиции, концерты, примерки, гастроли. А сколько подготовительной работы...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Yes, constant rehearsals, concerts, fitting, touring. And all the preparatory work...."
+    },
+    "149": {
+        "ru": "Сейчас вся моя жизнь — это сцена, но ещё должен поддерживать хорошую физическую форму, поэтому я регулярно бываю в спортзале 💪💪💪",
+        "choices": [
+            "150"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Performing is my whole life, but I also have to keep myself in good shape, so I'm always in the gym 💪💪💪💪"
+    },
+    "150": {
+        "ru": "Это тяжело?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Is it hard?"
+    },
+    "151": {
+        "ru": "Нууу... да, но я получаю от этого удовольствие.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well... Yes, but I'm enjoying it."
+    },
+    "152": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol3.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "153": {
+        "ru": "К тому же, мне нравится результат 😜",
+        "choices": [
+            "154"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Plus, I like the result 😜"
+    },
+    "154": {
+        "ru": "Ух ты! Ты не зря стараешься — выглядишь шикарно! 🔥",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wow, I see the training paid off. You look amazing! 😍"
+    },
+    "155": {
+        "ru": "Я рад, что тебе нравится 😉",
+        "choices": [
+            "156"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm glad you like it 😉"
+    },
+    "156": {
+        "ru": "Знаешь, мне нравится просто болтать с тобой! Мне кажется, что мы знакомы очень давно.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "You know, I like talking to you! I feel like we've known each other for a long time."
+    },
+    "157": {
+        "ru": "Как думаешь, почему так?)",
+        "choices": [
+            "158"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Why do you think this is happening? :)"
+    },
+    "158": {
+        "ru": "Может быть, общие интересы? Ты и я любим музыку)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Maybe because we have common interests? You and I both like music:)"
+    },
+    "159": {
+        "ru": "Возможно, но мне кажется, здесь дело в чём-то другом.",
+        "choices": [
+            "160"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Maybe, but I think it's about something else."
+    },
+    "160": {
+        "ru": "Например?😏",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Like what?😏"
+    },
+    "161": {
+        "ru": "Может быть, мы родственные души? ",
+        "choices": [
+            "162"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Maybe we are soulmates?"
+    },
+    "162": {
+        "ru": "Это сложный вопрос, но всё может быть)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "It's a complicated question, but anything is possible:)"
+    },
+    "163": {
+        "ru": "Ладно, давай иначе...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, let's put it another way....."
+    },
+    "164": {
+        "ru": "О чем ты мечтаешь?",
+        "choices": [
+            "165"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "What are your dreams?"
+    },
+    "165": {
+        "ru": "Я бы хотела найти единомышленников. Кого-то, с кем можно вместе заниматься музыкой, творить)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I would like to find like-minded people. Someone to make music with, to create together:)"
+    },
+    "166": {
+        "ru": "Я могу легко осуществить твою мечту 👌",
+        "choices": [
+            "167"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I can easily make your dream come true 👌"
+    },
+    "167": {
+        "ru": "Что ты имеешь в виду?!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What do you want to say?!"
+    },
+    "168": {
+        "ru": "То, что теперь у тебя есть я! 😎 Мы можем осуществить твою мечту вместе, если ты, конечно, хочешь! 😀",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "That you have me now! 😎 We can make your dream come true together, if you want to, of course! 😀"
+    },
+    "169": {
+        "ru": "Та твоя песня... Я ведь не просто так выбрал её из всех...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "That song of yours... There's a reason I chose it."
+    },
+    "170": {
+        "ru": "Я хочу записать её с тобой! 🤩",
+        "choices": [
+            "171"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I want to record it with you! 🤩"
+    },
+    "171": {
+        "ru": "Что?! Ты не шутишь?! Как это возможно? Ааааа, я сейчас умру от радости!!! 😲",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What, you're not kidding!!! How is that possible? Aaaaah, I think I'm gonna die!!!!! 😲"
+    },
+    "172": {
+        "ru": "Ой, нет, не умирай! Это было слишком да, вот сразу говорить тебе это?)))",
+        "choices": [
+            "173"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Oh no, don't die! Was it too much to tell you that right away?:))"
+    },
+    "173": {
+        "ru": "Подожди, я должна прокричаться от счастья! Меня переполняют эмоции🥳🥳🥳",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wait, I have to finish screaming! I'm overwhelmed 🥳🥳🥳🥳"
+    },
+    "174": {
+        "ru": "Кричи и возвращайся скорее)",
+        "choices": [
+            "175"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Finish your screaming and come back soon:))"
+    },
+    "175": {
+        "ru": "Фух, я тут)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Phew, I'm here:)))"
+    },
+    "176": {
+        "ru": "Ты быстро)))",
+        "choices": [
+            "177",
+            "178"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You're fast:))))"
+    },
+    "177": {
+        "ru": "Мне не терпится узнать подробности! ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": "179",
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I can't wait to know the details."
+    },
+    "178": {
+        "ru": "Расскажи мне всё, прошу!🙏🙏🙏",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Tell me everything, please! 🙏🙏🙏"
+    },
+    "179": {
+        "ru": "Ох, мой продюсер будет недоволен, что я рассказал тебе это, но мне всё равно, потому что я сам сгораю от нетерпения, чтобы обсудить с тобой всё 😅",
+        "choices": [
+            "180"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Oh, my producer won't be happy that I'm telling you this, but I don't care because I'm dying to discuss it with you😅"
+    },
+    "180": {
+        "ru": "Так говори же! ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Tell me!"
+    },
+    "181": {
+        "ru": "Нуу, мы всё это затеяли, чтобы подогреть интерес фанатов, а заодно найти талантливых исполнителей и возможно записать с кем-то из них потенциальных хит)",
+        "choices": [
+            "182"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, we're doing all this to get fans interested and to find talented artists and maybe record a possible hit with one of them:)"
+    },
+    "182": {
+        "ru": "Тааак?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "So what?"
+    },
+    "183": {
+        "ru": "Когда победитель был определен, наше с тобой свидание планировалось провести в прямом эфире.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "When the winner was determined, we were supposed to go live so everyone could watch us having a date."
+    },
+    "184": {
+        "ru": "С тобой бы связались мои менеджеры, рассказали тебе подробности, и мы бы пообщались с тобой только on-line, и там ты бы узнала, что мы вместе запишем с тобой этот трек:) ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "My managers would have contacted you, told you the details, and we would have talked online, and there you would have found out that we would record the track together :)))"
+    },
+    "185": {
+        "ru": "Сюрприз)))",
+        "choices": [
+            "186"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Surprise:))))"
+    },
+    "186": {
+        "ru": "Но почему тогда ты написал мне сам?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "But then, why did you send me a message yourself?"
+    },
+    "187": {
+        "ru": "Мне так понравилось твое творчество, что я не согласился делать из этого шоу. Мне показалось, что это будет нечестно.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I liked your work so much that I didn't agree to make a show out of it. I felt it wouldn't be fair."
+    },
+    "188": {
+        "ru": "Я настоял, что я сам пообщаюсь с тобой лично, а потом мы решим как всё это будет происходить)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I insisted that I would talk to you myself and then we would decide what we should do:))"
+    },
+    "189": {
+        "ru": "Правда, я обещал, что ничего не скажу тебе о дальнейших планах🙄",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But I also promised I wouldn't tell you anything about further plans🙄"
+    },
+    "190": {
+        "ru": "Но ты была такой искренней со мной, что я не сдержался😅",
+        "choices": [
+            "191"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "But you were so honest with me, I couldn't help it😅"
+    },
+    "191": {
+        "ru": "Ахах, а тебе точно не попадет за это?))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Ahhhh, are you sure you won't get in trouble for that?:)"
+    },
+    "192": {
+        "ru": "Нет, если ты не скажешь никому, что я тебе всё выболтал)))",
+        "choices": [
+            "193"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "No, if you don't tell anyone that I told you everything:)))"
+    },
+    "193": {
+        "ru": "Что же, придется мне сохранить и эту тайну)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Well, I'll have to keep that secret too:)"
+    },
+    "194": {
+        "ru": "Я признателен тебе 🙏😘",
+        "choices": [
+            "195"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I appreciate it 🙏😘"
+    },
+    "195": {
+        "ru": "Постой, я, кажется, поняла... То есть, сейчас у нас с тобой не то свидание?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wait, I think I get it.... You mean you and I are on the wrong date right now?"
+    },
+    "196": {
+        "ru": "Нет, конечно нет) Мне просто захотелось поболтать с тобой, ну и немножко пофлиртовать)))",
+        "choices": [
+            "197"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "No, of course not:) I just wanted to chat with you, and flirt a little:)))"
+    },
+    "197": {
+        "ru": "Это немного странно)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "It's a little weird:)))"
+    },
+    "198": {
+        "ru": "Почему?) ",
+        "choices": [
+            "199"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Why?:)"
+    },
+    "199": {
+        "ru": "Я уже говорила — ты суперзвезда, а я обычный человек",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I already told you, you're a superstar and I'm just a normal person."
+    },
+    "200": {
+        "ru": "Я знаю, что ты думаешь, но всё не так как кажется.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I know what you're thinking, but it's not what it seems."
+    },
+    "201": {
+        "ru": "Никто не хочет вспоминать о том, что я — просто человек.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "No one wants to remember that I'm just a human being."
+    },
+    "202": {
+        "ru": "Что мне нужно живое человеческое общение. Что я, как и все, нуждаюсь в дружбе, заботе и любви.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "That I need human companionship. That I, like everyone else, need friendship, care and love."
+    },
+    "203": {
+        "ru": "Все видят во мне только картинку, но не хотят заглянуть глубже.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Everyone sees me only as an image, but they don't want to look deeper."
+    },
+    "204": {
+        "ru": "На самом деле я очень одинок, и просто решил пообщаться с человеком, который мне так понравился!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "In fact, I feel very lonely and I just decided to talk to the person I liked so much."
+    },
+    "205": {
+        "ru": "Ты сможешь это понять?)",
+        "choices": [
+            "206"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Can you understand it? :)"
+    },
+    "206": {
+        "ru": "Конечно. Я никогда не думала об этом ТАК, но да, я тебя понимаю)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Of course. I never thought of it like THAT, but yes, I can understand you:)."
+    },
+    "207": {
+        "ru": "Мне приятно слышать это, * 🙂",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Glad to hear it, * 🙂 "
+    },
+    "208": {
+        "ru": "Скажи, а ты бы согласилась на настоящее свидание со мной?😏",
+        "choices": [
+            "209"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Tell me, would you be willing to go on a real date with me? 😏"
+    },
+    "209": {
+        "ru": "Возможно) Зависит от того, как бы мы собирались провести время)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Maybe:) It depends on how we're going to spend time:)"
+    },
+    "210": {
+        "ru": "Хочешь я тебе расскажу?)",
+        "choices": [
+            "211"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Do you want me to tell you?:)"
+    },
+    "211": {
+        "ru": "Конечно)",
+        "choices": [
+            "212",
+            "227"
+        ],
+        "choices_param": [
+            {
+                "check_args": "tender===2",
+                "on_choice": "0"
+            },
+            {
+                "check_args": "tender===0",
+                "on_choice": "0"
+            }
+        ],
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Sure:)"
+    },
+    "212": {
+        "ru": "Я бы пригласил тебя погулять под дождём! 😜",
+        "choices": [
+            "213"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'd take you for a walk in the rain! 😜"
+    },
+    "213": {
+        "ru": "Но я ведь сказала после. После дождя)))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "But I said after. After the rain:))"
+    },
+    "214": {
+        "ru": "Нет, мы бы пошли гулять в самый дождь,",
+        "choices": [
+            "215"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "No, we would have gone for a walk in the rain."
+    },
+    "215": {
+        "ru": "Почему?) ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Why?:))"
+    },
+    "216": {
+        "ru": "Чтобы нам никто не помешал)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "So that we wouldn't be disturbed:)"
+    },
+    "217": {
+        "ru": "Вечером под зонтом нас бы никто не узнал, а значит, нам бы не понадобились очки, и я бы смог видеть твои глаза.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "At night, under an umbrella, no one would recognize us, which means we wouldn't need glasses and I would be ablee to look you in the eye."
+    },
+    "218": {
+        "ru": "У нас был бы яркий зонт, под которым мы бы вместе прятались от непогоды",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "We'd have a bright umbrella under which we'd hide from the weather."
+    },
+    "219": {
+        "ru": "И я бы мог совершенно невинно прижимать тебя к себе, чтобы ты не промокла. Ведь на улице непогода, а под зонтом так тесно...",
+        "choices": [
+            "220"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "And I could casually hold you against me so you wouldn't get wet. Cause it's rainy and the umbrella is so small... "
+    },
+    "220": {
+        "ru": "Как мило) Ты находчивый, мне это нравится)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "How nice:) You're inventive, I like that:)"
+    },
+    "221": {
+        "ru": "А мне нравишься ты) И я бы очень волновался, общаясь с тобой.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "And I like you:) And I'd get really nervous talking to you."
+    },
+    "222": {
+        "ru": "Потому что я совсем не бываю на свиданиях и не знаю, что нужно говорить и делать😞",
+        "choices": [
+            "223"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Because I never go on dates and I don't know what to say and do😞"
+    },
+    "223": {
+        "ru": "Мы бы волновались вместе, но это было бы очень приятно) Просто быть вот так рядом🥰",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "We'd be nervous together, but it would be so nice:) Just being together like this🥰"
+    },
+    "224": {
+        "ru": "Я бы взял тебя за руку, и мы бы обнявшись стояли на мосту и смотрели на огни ночного города, прижавшись друг к другу)",
+        "choices": [
+            "225"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'd hold your hand and we'd stand on the bridge watching the city lights at night, snuggled against each other:)"
+    },
+    "225": {
+        "ru": "А если бы мы замерзли?)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What if we froze? :)"
+    },
+    "226": {
+        "ru": "То это было бы прекрасно! Ведь я бы пригласил тебя на чай к себе домой 😊",
+        "choices": [
+            "241"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It would have been good! Because I'd invite you to my place for tea 😊"
+    },
+    "227": {
+        "ru": "Я бы позвал тебя на велопрогулку.",
+        "choices": [
+            "228"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'd take you for a bike ride."
+    },
+    "228": {
+        "ru": "Неожиданно)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "That's unexpected:)"
+    },
+    "229": {
+        "ru": "Ну, ты такая подвижная, целеустремленная, поэтому я подумал, что было бы отлично устроить соревнования)",
+        "choices": [
+            "230"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Well, you're such an active and determined person, so I thought it would be great to have a competition:)"
+    },
+    "230": {
+        "ru": "Мне нравится, давай подробнее)))",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I like it, elaborate please:))"
+    },
+    "231": {
+        "ru": "Мы бы поехали в уединенное место, где нам бы никто не помешал. Ткнули бы пальцем в карту, и помчались бы в это место наперегонки))",
+        "choices": [
+            "232"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "We would go to a quiet place where no one would bother us. We would poke a pin in a map and rush to the place:)"
+    },
+    "232": {
+        "ru": "А как же соревнования?)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What about the competition?:)"
+    },
+    "233": {
+        "ru": "Кто доехал бы до места первый, тот бы получил приз.",
+        "choices": [
+            "234"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Whoever got there first would get a prize."
+    },
+    "234": {
+        "ru": "Какой?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "What kind of prize?"
+    },
+    "235": {
+        "ru": "Например, если бы выиграл я, то ты бы меня поцеловала.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "For example, if I won, you would kiss me."
+    },
+    "236": {
+        "ru": "А если бы выиграла ты, то это я целовал бы тебя)))",
+        "choices": [
+            "237"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "And if you won, I'd be the one to kiss you:)))"
+    },
+    "237": {
+        "ru": "Хитро! Тебе повезло, что мне бы понравилось)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Clever! You are lucky that I would have liked it:))"
+    },
+    "238": {
+        "ru": "Конечно, я ведь уже успел тебя немного изучить)",
+        "choices": [
+            "239"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Of course, I've already known you a little bit:)"
+    },
+    "239": {
+        "ru": "Ну ладно, а что потом?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Very well, what's next?"
+    },
+    "240": {
+        "ru": "А потом, я бы пригласил тебя на чай к себе домой 😊",
+        "choices": [
+            "241"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Then, I'd invite you to my place for tea 😊."
+    },
+    "241": {
+        "ru": "Ого, так сразу? Почему бы нам не пойти куда-то еще?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Wow, just like that? Why don't we go somewhere else?"
+    },
+    "242": {
+        "ru": "Нам бы не дали побыть наедине((( ",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "They wouldn't have let us be alone together:((("
+    },
+    "243": {
+        "ru": "Пришлось бы делать это инкогнито, а мне бы просто хотелось провести с тобой тихий романтический вечер без посторонних глаз.",
+        "choices": [
+            "244"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would have had to do it incognito, and I just want to spend a quiet romantic evening with you without prying eyes."
+    },
+    "244": {
+        "ru": "Это очень трогательно) Я даже подумать не могла, что ты такой романтичный)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "That's very touching:) I had no idea you were so romantic:)"
+    },
+    "245": {
+        "ru": "Мне хочется быть таким рядом с тобой.",
+        "choices": [
+            "246"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I want to be that way with you."
+    },
+    "246": {
+        "ru": "Ну ладно, вот мы у тебя, пьем чай. А что дальше? 😊",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Alright, here we are, having tea. What's next? 😊"
+    },
+    "247": {
+        "ru": "Я бы стал играть тебе на гитаре, а ты бы слушала мои песни и немного смущалась)",
+        "choices": [
+            "248"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'd play guitar for you and you'd listen to my songs. And you'd be a bit embarrassed:)"
+    },
+    "248": {
+        "ru": "Почему это?)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Why?:)"
+    },
+    "249": {
+        "ru": "Потому что понимала бы, что на самом деле я пою о тебе ❤️",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Because you'd know I was actually singing about you ❤️"
+    },
+    "250": {
+        "ru": "Ты бы подняла на меня свои прекрасные глаза, и я, не сдержавшись, легко поцеловал бы тебя...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You would have looked at me with your beautiful eyes and I would have kissed you lightly without holding back..."
+    },
+    "251": {
+        "ru": "Ты бы позволила мне это сделать?😊",
+        "choices": [
+            "252"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Would you have let me do it?😊"
+    },
+    "252": {
+        "ru": "Конечно, я ждала этого весь вечер, просто не знала как сказать 🥰",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Of course, I've been waiting for that all night, I just didn't know how to say it 🥰"
+    },
+    "253": {
+        "ru": "Я бы целовал тебя медленно и нежно, наслаждаясь вкусом твоих губ.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would kiss you slowly and softly, enjoying the taste of your lips."
+    },
+    "254": {
+        "ru": "Гладил бы тебя по спине и вдыхал свежий аромат твоей кожи.",
+        "choices": [
+            "255"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'd caress your back and inhale the fresh scent of your skin."
+    },
+    "255": {
+        "ru": "Минхо, это было бы чудесное свидание... Самое лучшее😘",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Minho, it would be a wonderful date..... The best😘"
+    },
+    "256": {
+        "ru": "*, я хочу спросить тебя...",
+        "choices": [
+            "257"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "*, I want to ask you... "
+    },
+    "257": {
+        "ru": "Да?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes?"
+    },
+    "258": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aidol4.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": null
+    },
+    "259": {
+        "ru": "Возможно, это неуместно, но я сейчас очень возбужден 😳",
+        "choices": [
+            "260"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "This may be inappropriate, but I'm really horny right now 😳"
+    },
+    "260": {
+        "ru": "Ох, мне даже стало жарко 🔥🔥🔥",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Oh, I'm even getting hot 🔥🔥🔥"
+    },
+    "261": {
+        "ru": "Скажи, а ты бы хотела продолжить наше свидание?",
+        "choices": [
+            "262",
+            "314"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Tell me, would you like to continue our date?"
+    },
+    "262": {
+        "ru": "Да 🥰",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes 🥰"
+    },
+    "263": {
+        "ru": "Какое счастье, я так рад, что ты согласилась)))",
+        "choices": [
+            "264"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm so happy you said yes:)))"
+    },
+    "264": {
+        "ru": "Мне просто очень интересно, что случилось бы дальше...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I just wonder what would have happened next?"
+    },
+    "265": {
+        "ru": "Я бы повел тебя в спальню 😘",
+        "choices": [
+            "266"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would have taken you to the bedroom 😘"
+    },
+    "266": {
+        "ru": "Мне это нравится, давай дальше)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I like that, let's move on:)"
+    },
+    "267": {
+        "ru": "Я бы взял твою руку и положил себе на грудь, чтобы ты почувствовала, как сильно бьется мое сердце.",
+        "choices": [
+            "268"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would take your hand and put it on my chest so you could feel my heart pounding."
+    },
+    "268": {
+        "ru": "Мне кажется я чувствую это сейчас ❤️",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I think I can feel it now ❤️"
+    },
+    "269": {
+        "ru": "Я бы с восторгом смотрел, как на твоих щеках появляется румянец, как соблазнительно открываются твои губы, и ты шепчешь мне...",
+        "choices": [
+            "270"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would watch with delight as a blush would appear on your cheeks, as your lips would open seductively and you would whisper to me...."
+    },
+    "270": {
+        "ru": "Поцелуй меня!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Kiss me!"
+    },
+    "271": {
+        "ru": "Да, это!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Yes, that!"
+    },
+    "272": {
+        "ru": "Я бы стал целовать тебя, но уже не так нежно, как до этого, а страстно и пламенно.",
+        "choices": [
+            "273"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would start kissing you, but no longer as tenderly as before, but passionately and ardently."
+    },
+    "273": {
+        "ru": "Минхо, продолжай, пожалуйста!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Minho, please continue!"
+    },
+    "274": {
+        "ru": "Я бы стал ласкать губами твою шею, гладить твои плечи, наслаждаться тем, как ты плавишься в моих руках от удовольствия.",
+        "choices": [
+            "275"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I would caress your neck with my lips, I would caress your shoulders, I would enjoy watching you melt in my hands."
+    },
+    "275": {
+        "ru": "А я бы стала раздевать тебя, начала бы с футболки, а затем...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "And I'd undress you, I'd start with your shirt and then..."
+    },
+    "276": {
+        "ru": "Да?",
+        "choices": [
+            "277"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Yes?"
+    },
+    "277": {
+        "ru": "Я бы опустилась на колени и поцеловала тебя в живот.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'd kneel down and kiss your stomach."
+    },
+    "278": {
+        "ru": "О, продолжай!",
+        "choices": [
+            "279"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "Oh, go on!"
+    },
+    "279": {
+        "ru": "Я нежно провожу пальцами вокруг твоего пупка, и вижу как напрягаются мышцы своего пресса.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I would gently run my fingers around your navel and watch your abs tighten."
+    },
+    "280": {
+        "ru": "Поверь, не только пресса 😏",
+        "choices": [
+            "281"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Trust me, not just my abs 😏"
+    },
+    "281": {
+        "ru": "К этому мы вернемся позже. А пока избавим тебя от брюк, и от белья.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "We'll come back to it later. In the meantime, let's get rid of your pants, and your underwear."
+    },
+    "282": {
+        "ru": "Как же так, я уже голый, а ты нет?! Несправедливо))",
+        "choices": [
+            "283"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "How come I'm already naked, and you're not?! That's unfair!"
+    },
+    "283": {
+        "ru": "Это нужно срочно исправить, и я начинаю торопливо снимать с тебя одежду.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "This needs to be fixed urgently, and I start taking your clothes off in a hurry."
+    },
+    "284": {
+        "ru": "Ммм, мне нравится твой настрой ❤️",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Mmm, I like your attitude ❤️"
+    },
+    "285": {
+        "ru": "Я так возбужден, что мне тяжело дышать, а мои пальцы плохо слушаются меня.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm so horny that it's hard to breathe and my fingers don't obey me."
+    },
+    "286": {
+        "ru": "Наконец, я снимаю с тебя трусики и вижу твое обнаженное тело!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I finally take off your panties and see your naked body!"
+    },
+    "287": {
+        "ru": "Как же ты красива! 😍",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "How beautiful you are! 😍"
+    },
+    "288": {
+        "ru": "Мне кажется, я влюблен!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 2.0,
+        "voice": null,
+        "event": null,
+        "en": "I think I'm in love!"
+    },
+    "289": {
+        "ru": "Я начинаю медленно гладить твои плечи, грудь, живот, бедра...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I start to slowly caress your shoulders, breasts, stomach, thighs...."
+    },
+    "290": {
+        "ru": "Твоя кожа словно вельвет. Она пахнет цитрусами и страстью.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Your skin feels like velvet. It smells of citrus and passion."
+    },
+    "291": {
+        "ru": "Я вижу как часто ты дышишь, как кусаешь свою губу, когда я ласкаю тебя внизу...",
+        "choices": [
+            "292"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I can see how you breathe heavily, how you bite your lip as I caress you down there...."
+    },
+    "292": {
+        "ru": "Я хочу тебя, Минхо.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I want you, Minho"
+    },
+    "293": {
+        "ru": "И я, *! Очень!",
+        "choices": [
+            "294"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Me too, *! So much!"
+    },
+    "294": {
+        "ru": "Тогда продолжай, не останавливайся!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "So, keep going, don't stop!"
+    },
+    "295": {
+        "ru": "Я беру тебя на руки и несу на кровать.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I take you in my arms and carry you to bed."
+    },
+    "296": {
+        "ru": "Ты похожа на тигрицу, такая красивая, грациозная, опасная...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You look like a tigress, so beautiful, graceful, dangerous...."
+    },
+    "297": {
+        "ru": "Твоя спина касается прохладной простыни, и ты сладко стонешь, когда я ложусь на тебя сверху!",
+        "choices": [
+            "298"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Your back touches the cool sheet and you moan sweetly as I lie on top of you."
+    },
+    "298": {
+        "ru": "Да, так хорошо! Ещё...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes, it feels so good! More..."
+    },
+    "299": {
+        "ru": "Мы начинаем двигаться, медленно, плавно.",
+        "choices": [
+            "300"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "We start to move, slowly, gently."
+    },
+    "300": {
+        "ru": "Это так волшебно!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "It's so magical!"
+    },
+    "301": {
+        "ru": "Я целую тебя везде, куда только могут дотянуться мои губы.",
+        "choices": [
+            "302"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I kiss you where my lips can reach."
+    },
+    "302": {
+        "ru": "Да-да...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes, yes..."
+    },
+    "303": {
+        "ru": "Ты царапаешь мою спину, гладишь бедра и сильнее прижимаешь меня к себе.",
+        "choices": [
+            "304"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "You scratch my back, caress my thighs and pull me closer to you."
+    },
+    "304": {
+        "ru": "Пожалуйста, не останавливайся...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Please don't stop...."
+    },
+    "305": {
+        "ru": "Я шепчу тебе о том, как мне хорошо с тобой.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I whisper to you how good it feels to be with you."
+    },
+    "306": {
+        "ru": "Наши движения становятся дикими, жаркими...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Our movements become wild, hot...."
+    },
+    "307": {
+        "ru": "Кровать отчаянно скрипит, ты стонешь и повторяешь мое имя.",
+        "choices": [
+            "308"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "The bed creaks desperately, you moan and repeat my name."
+    },
+    "308": {
+        "ru": "Да, Минхо!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Yes, Minho!"
+    },
+    "309": {
+        "ru": "Я обезумел от страсти, я не могу остановиться!",
+        "choices": [
+            "310"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I'm crazy with passion, I can't stop!"
+    },
+    "310": {
+        "ru": "Ещё немного, я уже скоро!!!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "Just a little more, I'm coming!!!"
+    },
+    "311": {
+        "ru": "Я поднимаю твою ногу и кусаю внутреннюю сторону бедра!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "I lift your leg and bite the inside of your thigh!"
+    },
+    "312": {
+        "ru": "И в этот момент мы с тобой оба растворяемся в удовольствии ❤️❤️❤️",
+        "choices": [
+            "313"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "And at that moment both you and I dissolve in pleasure ❤️❤️❤️❤️❤️❤️"
+    },
+    "313": {
+        "ru": "Мне немного неловко, но это было потрясающе)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": "318",
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm a little embarrassed, but that was awesome:)"
+    },
+    "314": {
+        "ru": "Извини, я просто пока не готова к этому😳",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm sorry, I'm not ready for that yet😳"
+    },
+    "315": {
+        "ru": "Ну что ты, не извиняйся, это мне должно быть стыдно...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "Come on, don't apologize, I'm the one who should be embarrassed....."
+    },
+    "316": {
+        "ru": "Просто мне с тобой так хорошо, что я немного увлекся)))",
+        "choices": [
+            "317"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It's just that I'm having such a good time with you that I got a little carried away :)))"
+    },
+    "317": {
+        "ru": "Мне тоже хорошо с тобой, Минхо) Я уверена, это было бы потрясающе 😘",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "en": "I'm having a good time too, Minho:) I'm sure it would be amazing 😘"
+    },
+    "318": {
+        "ru": "Это будет потрясающе! Обязательно будет, моя *😘",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "en": "It will be amazing!!! It definitely will be, my *😘"
+    }
+}

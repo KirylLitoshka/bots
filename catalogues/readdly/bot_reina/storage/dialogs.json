@@ -1,0 +1,2666 @@
+{
+    "0": {
+        "en": "Hey",
+        "choices": [
+            "1"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Oye",
+        "ru": "Привет"
+    },
+    "1": {
+        "en": "Hey, I casually happened to be around your block",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Oye, estoy por aquí cerca por casualidad",
+        "ru": "Привет, я тут чисто случайно очутился в твоем районе"
+    },
+    "2": {
+        "en": "🙄",
+        "choices": [
+            "3"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "🙄",
+        "ru": "🙄"
+    },
+    "3": {
+        "en": "So... do you mind if I come by to say hi?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Te importa si vengo a verte?",
+        "ru": "Не против, если я заскочу?"
+    },
+    "4": {
+        "en": "Oh yeah? Casually?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Ah sí? ¿Por casualidad?",
+        "ru": "Что, правда случайно?"
+    },
+    "5": {
+        "en": "I don't believe that",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No me lo creo",
+        "ru": "Что-то не верится"
+    },
+    "6": {
+        "en": "And I'd love to see you tonight, but it's not possible",
+        "choices": [
+            "7"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Y me encantaría verte esta noche pero no es posible",
+        "ru": "Я бы с радостью повидалась, но не могу"
+    },
+    "7": {
+        "en": "Why not? Too busy with your boyfriend? lol",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Por qué no? ¿Demasiado ocupada con tu novio? lol",
+        "ru": "Почему? Ты с парнем? лол"
+    },
+    "8": {
+        "en": "You know I don't have a boyfriend",
+        "choices": [
+            "9"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Sabes que no tengo novio",
+        "ru": "У меня нет парня, ты же знаешь"
+    },
+    "9": {
+        "en": "Yet...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Aún....",
+        "ru": "Пока что нет..."
+    },
+    "10": {
+        "en": "Haha yeahhhhh",
+        "choices": [
+            "11"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Jajajaja síiiii",
+        "ru": "Хахаха даааа"
+    },
+    "11": {
+        "en": "So why can't you see me tonight?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Entonces por qué no puedes verme esta noche?",
+        "ru": "А почему не можешь?"
+    },
+    "12": {
+        "en": "I told you yesterday",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Ya te lo dije ayer",
+        "ru": "Я же вчера говорила"
+    },
+    "13": {
+        "en": "I'm working tonight",
+        "choices": [
+            "14"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Esta noche estoy trabajando",
+        "ru": "Я сегодня работаю"
+    },
+    "14": {
+        "en": "Ohhh right… My bad, I forgot",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Ahhh sí… Se me ha olvidado, lo siento",
+        "ru": "А, точно... Извини, забыл"
+    },
+    "15": {
+        "en": "It's okay tho",
+        "choices": [
+            "16"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No pasa nada",
+        "ru": "Да ничего"
+    },
+    "16": {
+        "en": "So how's the night shift?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué tal el turno de noche?",
+        "ru": "Как ночная смена проходит?"
+    },
+    "17": {
+        "en": "It's okay I guess",
+        "choices": [
+            "18"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Está bien, supongo",
+        "ru": "Вроде неплохо"
+    },
+    "18": {
+        "en": "You guess?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Supones?",
+        "ru": "Вроде?"
+    },
+    "19": {
+        "en": "Well it's pretty boring to be honest",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pues es bastante aburrido para ser sincera",
+        "ru": "Если честно, умираю от скуки"
+    },
+    "20": {
+        "en": "I'm literally struggling not to fall asleep",
+        "choices": [
+            "21"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Estoy literalmente luchando por no quedarme dormida",
+        "ru": "Буквально засыпаю на ходу"
+    },
+    "21": {
+        "en": "Not many people around?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿No hay mucha gente?",
+        "ru": "Мало народу?"
+    },
+    "22": {
+        "en": "No, nobody at all!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡No, nadie en absoluto!",
+        "ru": "Вообще никого!"
+    },
+    "23": {
+        "en": "Well just me as receptionist and this other girl called Samantha",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Bueno, sólo yo como recepcionista y esta otra chica llamada Samantha",
+        "ru": "Здесь только я на ресепшн и еще одна девочка, Саманта"
+    },
+    "24": {
+        "en": "She is a cleaner but we don't really get along",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Es limpiadora pero no nos llevamos muy bien",
+        "ru": "Она уборщица. Мы не особо ладим"
+    },
+    "25": {
+        "en": "She tends to be smoking at the back or in the second floor while I have to stay at the same place behind the counter",
+        "choices": [
+            "26"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Ella suele estar fumando al fondo o en el segundo piso mientras que yo tengo que quedarme en el mismo sitio detrás del mostrador",
+        "ru": "Она обычно курит где-нибудь на заднем дворе или на втором этаже, а мне приходится торчать за стойкой"
+    },
+    "26": {
+        "en": "So it's just the two of you working?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Así que sólo trabajáis vosotras dos?",
+        "ru": "То есть, вас только двое на смене?"
+    },
+    "27": {
+        "en": "Yeah my cheap boss only hires 2 people for each shift",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Sí, mi jefe tacaño sólo contrata a 2 personas por cada turno",
+        "ru": "Да, начальник экономит на персонале, так что работаем по двое"
+    },
+    "28": {
+        "en": "So Samantha and I usually have the night shifts",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Así que Samantha y yo solemos tener los turnos de noche",
+        "ru": "Мы с Самантой обычно работаем в ночную смену"
+    },
+    "29": {
+        "en": "And some Ukrainian ladies during the day",
+        "choices": [
+            "30"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Y unas señoras ucranianas durante el día",
+        "ru": "А днем какие-то другие женщины, кажется, они из Сербии"
+    },
+    "30": {
+        "en": "Damn he is cheap!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¡Maldita sea, es tacaño!",
+        "ru": "Да уж, экономит так экономит!"
+    },
+    "31": {
+        "en": "😬",
+        "choices": [
+            "32"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😬",
+        "ru": "😬"
+    },
+    "32": {
+        "en": "Only 4 staff members working at a hostel. It must be a nightmare!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Sólo 4 empleados trabajando en un hostal. ¡Debe ser una pesadilla!",
+        "ru": "Четыре сотрудника на целый хостел. Кошмар, наверное!"
+    },
+    "33": {
+        "en": "It sometimes is",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "A veces lo es",
+        "ru": "Иногда и вправду кошмар"
+    },
+    "34": {
+        "en": "But not tonight",
+        "choices": [
+            "35"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pero no esta noche",
+        "ru": "Но не сегодня"
+    },
+    "35": {
+        "en": "Why not?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Por qué no?",
+        "ru": "Почему?   "
+    },
+    "36": {
+        "en": "Well we're not really busy",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pues no estamos muy ocupadas",
+        "ru": "Ну, не сказать, что мы сильно заняты"
+    },
+    "37": {
+        "en": "There's nobody staying here tonight so I don't have work to do",
+        "choices": [
+            "38"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No hay nadie que se quede aquí esta noche así que no tengo trabajo que hace",
+        "ru": "Гостей сегодня нет, так что и работы нет"
+    },
+    "38": {
+        "en": "That's pretty odd for a hostel, isn't it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Eso es bastante raro para un hostal, ¿no?",
+        "ru": "Как-то странно для хостела, не находишь?"
+    },
+    "39": {
+        "en": "I mean I guess it's not good since there's not much money then",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Supongo que no es bueno ya que no hay mucho dinero entonces",
+        "ru": "Это не очень хорошо в плане выручки"
+    },
+    "40": {
+        "en": "But I don't really know what's worse",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pero realmente no sé qué es peor",
+        "ru": "Но я даже не знаю, что хуже"
+    },
+    "41": {
+        "en": "Being so busy cause the place is so full and not being able to catch a breath",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Estar tan ocupada porque el lugar está muy lleno y no poder tomar un respiro",
+        "ru": "Носиться как угорелая целый день, потому что много гостей"
+    },
+    "42": {
+        "en": "Or nothing to do cause there's no one here",
+        "choices": [
+            "43"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "O no tener nada que hacer porque no hay nadie",
+        "ru": "Или бездельничать, потому что никого нет"
+    },
+    "43": {
+        "en": "I guess it's a dilemma",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Supongo que es un dilema",
+        "ru": "Да уж, дилемма"
+    },
+    "44": {
+        "en": "Indeed!",
+        "choices": [
+            "45"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Lo es!",
+        "ru": "Так и есть!"
+    },
+    "45": {
+        "en": "But you know, I was thinking... since there's nothing better to do wouldn't it be great if I go and visit you?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Pero sabes, estaba pensando... ya que no hay nada mejor que hacer ¿no sería genial que fuera a visitarte?",
+        "ru": "Знаешь, я тут подумал... если тебе все равно нечем заняться, может, я зайду к тебе на работу?"
+    },
+    "46": {
+        "en": "Haha",
+        "choices": [
+            "47"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Jajaja",
+        "ru": "Хахаха   "
+    },
+    "47": {
+        "en": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué?",
+        "ru": "Что?"
+    },
+    "48": {
+        "en": "Are you crazy? haha",
+        "choices": [
+            "49"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Estás loco? jajaja",
+        "ru": "С ума сошел? Ахахах"
+    },
+    "49": {
+        "en": "No, I'm dead serious!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¡No, estoy hablando muy en serio!",
+        "ru": "Нет, я совершенно серьезно"
+    },
+    "50": {
+        "en": "🙂",
+        "choices": [
+            "51"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "🙂",
+        "ru": "🙂"
+    },
+    "51": {
+        "en": "I wanna see your cute face",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Quiero ver tu linda cara",
+        "ru": "Хочу взглянуть на твое милое личико"
+    },
+    "52": {
+        "en": "I'm at work, do you want me to get fired or what?",
+        "choices": [
+            "53"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Estoy trabajando, ¿quieres que me despidan o qué?",
+        "ru": "Я же на работе. Хочешь, чтобы меня уволили или что?"
+    },
+    "53": {
+        "en": "Of course not but think about it",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Claro que no pero piénsalo",
+        "ru": "Нет, конечно, но ты подумай"
+    },
+    "54": {
+        "en": "😕",
+        "choices": [
+            "55"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😕",
+        "ru": "😕"
+    },
+    "55": {
+        "en": "It's only you and this chick Samantha, you are saying that she is away from you normally",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Sólo estáis tú y esta chica Samantha, y dices que no habla demasiado contigo",
+        "ru": "Там только ты и эта Саманта. И ты сказала, что ее никогда нет рядом"
+    },
+    "56": {
+        "en": "So",
+        "choices": [
+            "57"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Y qué?",
+        "ru": "И?"
+    },
+    "57": {
+        "en": "You got no clients or boss checking you. And you need someone to help you stay awake!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "No tienes clientes ni jefe que te controle. Y necesitas a alguien que te ayude a mantenerte despierta",
+        "ru": "Клиентов нет, начальник за тобой не следит. Нужно, чтобы тебя кто-то развлекал, чтобы ты не уснула"
+    },
+    "58": {
+        "en": "🤔",
+        "choices": [
+            "59"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "🤔",
+        "ru": "🤔"
+    },
+    "59": {
+        "en": "So would it be cool if I come visit you?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Así que estaría bien si voy a visitarte?",
+        "ru": "Ну так что, можно к тебе?"
+    },
+    "60": {
+        "en": "It's very tempting, I'm not gonna lie but it's scary",
+        "choices": [
+            "61"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Suena bien, no te voy a mentir, pero me da miedo",
+        "ru": "Звучит заманчиво, но я все равно побаиваюсь"
+    },
+    "61": {
+        "en": "Why? Am I scary?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Por qué? ¿Te doy miedo yo?",
+        "ru": "Кого? Меня, что ли?"
+    },
+    "62": {
+        "en": "No but I just don't want to get in trouble",
+        "choices": [
+            "63"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No pero es que no quiero meterme en problemas",
+        "ru": "Нет, но вдруг у меня из-за этого будут проблемы"
+    },
+    "63": {
+        "en": "You won't",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "No lo harás",
+        "ru": "Не будет"
+    },
+    "64": {
+        "en": "😓",
+        "choices": [
+            "65"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😓",
+        "ru": "😓"
+    },
+    "65": {
+        "en": "Come on, who can see you? Are there any cameras or something?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Vamos, ¿quién puede verte? ¿Hay cámaras o algo así?",
+        "ru": "Да ладно тебе, кто увидит? Или там камеры стоят?"
+    },
+    "66": {
+        "en": "Pff... no",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pff... No",
+        "ru": "Пффф нет конечно"
+    },
+    "67": {
+        "en": "My boss is that cheap he hasn't repair the cameras in 2 years",
+        "choices": [
+            "68"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Mi jefe es tan tacaño que no ha reparado las cámaras en 2 años",
+        "ru": "Начальник такой жмот, он года два камеры не чинил"
+    },
+    "68": {
+        "en": "Exactly, so nobody can tell. What do you say?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Exactamente, así que nadie se dará cuenta. ¿Qué me dices?",
+        "ru": "Вот именно, так что никто не узнает. Ну, что скажешь?"
+    },
+    "69": {
+        "en": "Let me think about it",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Déjame pensarlo",
+        "ru": "Сейчас подумаю"
+    },
+    "70": {
+        "en": "It's still so early and you know what they say the night is young",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Todavía es muy temprano y ya sabes lo que dicen que la noche es joven",
+        "ru": "Еще совсем не поздно. У нас вся ночь впереди"
+    },
+    "71": {
+        "en": "What if someone comes in past midnight?",
+        "choices": [
+            "72"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Y si alguien entra pasada la medianoche?",
+        "ru": "А если кто-то придет после полуночи?"
+    },
+    "72": {
+        "en": "They won't, it's not a touristic season. Everything around is so lonely",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "No lo harán, no estamos en temporada turística. Todo se ve tan solitario",
+        "ru": "Вряд ли, сейчас не туристический сезон. Кругом пусто"
+    },
+    "73": {
+        "en": "Alright, you can come and visit me",
+        "choices": [
+            "74"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "De acuerdo, puedes venir a visitarme",
+        "ru": "Ладно, приезжай"
+    },
+    "74": {
+        "en": "Great!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¡Genial!",
+        "ru": "Отлично!"
+    },
+    "75": {
+        "en": "So this is the place",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Este es el lugar",
+        "ru": "Вот адрес"
+    },
+    "76": {
+        "en": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aln1.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": null,
+        "ru": null
+    },
+    "77": {
+        "en": "It's near the lake",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Está cerca del lago",
+        "ru": "Это недалеко от озера"
+    },
+    "78": {
+        "en": "In front of the section where you can rent the boats",
+        "choices": [
+            "79"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Enfrente de la sección donde se pueden alquilar las barcas",
+        "ru": "Напротив аренды лодок"
+    },
+    "79": {
+        "en": "Oh that place... yeah I know it. It's pretty",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Oh, ese lugar... sí, lo conozco. Es bonito",
+        "ru": "О, я знаю это место. Там мило)"
+    },
+    "80": {
+        "en": "🙂",
+        "choices": [
+            "81"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "🙂",
+        "ru": "🙂"
+    },
+    "81": {
+        "en": "Though it's gonna take me some time to get there",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Aunque voy a tardar en llegar",
+        "ru": "Но дорога займет какое-то время"
+    },
+    "82": {
+        "en": "🤭",
+        "choices": [
+            "83"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "🤭",
+        "ru": "🤭"
+    },
+    "83": {
+        "en": "Since I don't have my car I have to walk",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Como no tengo mi coche tengo que ir andando",
+        "ru": "Я сейчас без машины, так что пойду пешком"
+    },
+    "84": {
+        "en": "It's okay I'll wait, I got nowhere else to go so",
+        "choices": [
+            "85"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No pasa nada, te esperaré, no tengo otra, así que",
+        "ru": "Ничего, я подожду, мне все равно здесь всю ночь торчать"
+    },
+    "85": {
+        "en": "Haha",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Jajaja",
+        "ru": "Хахаха"
+    },
+    "86": {
+        "en": "Wait a second tho",
+        "choices": [
+            "87"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Espera un segundo",
+        "ru": "Погоди"
+    },
+    "87": {
+        "en": "Ok",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Ok",
+        "ru": "Ок "
+    },
+    "88": {
+        "en": "I think I can hear someone outside",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Creo que oigo a alguien fuera",
+        "ru": "Кажется, кто-то идет"
+    },
+    "89": {
+        "en": "Hopefully not a client ruining the night",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Espero que no sea un cliente arruinando la noche",
+        "ru": "Надеюсь, никто не решил заселиться и испортить нам ночь"
+    },
+    "90": {
+        "en": "Hmm... that's weird",
+        "choices": [
+            "91"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Hmm... eso es raro",
+        "ru": "Хмм... очень странно"
+    },
+    "91": {
+        "en": "What happened?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué ha pasado?",
+        "ru": "Что такое?"
+    },
+    "92": {
+        "en": "I could have sworn I heard someone knocking on the front door",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Podría jurar que he oído a alguien llamar a la puerta principal",
+        "ru": "Клянусь, я слышала, как кто-то постучал в дверь"
+    },
+    "93": {
+        "en": "I also saw a shadow moving through the window as I was coming to see",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "También vi una sombra moverse por la ventana cuando venía a ver",
+        "ru": "И видела тень за окном"
+    },
+    "94": {
+        "en": "But as soon as I got there there was nobody",
+        "choices": [
+            "95"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Pero en cuanto llegué no había nadie",
+        "ru": "Но я посмотрела, и там никого нет"
+    },
+    "95": {
+        "en": "Well that's good, isn't it? Nobody is bothering us",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Eso es bueno, ¿no? Nadie nos estará molestando",
+        "ru": "Это ведь хорошо? Никто нам не помешает"
+    },
+    "96": {
+        "en": "Yeah, I guess but it's just weird",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Sí, supongo que sí, pero es raro",
+        "ru": "Да, просто странно как-то"
+    },
+    "97": {
+        "en": "I'm sure there was someone knocking",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Estoy segura de que había alguien llamando a la puerta",
+        "ru": "Я уверена, что кто-то стучал"
+    },
+    "98": {
+        "en": "You know, I'm just gonna check the back door",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Sabes que, voy a comprobar la puerta trasera",
+        "ru": "Пойду-ка проверю заднюю дверь"
+    },
+    "99": {
+        "en": "Sometimes people get confused and try to come in through it",
+        "choices": [
+            "100"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "A veces la gente se confunde e intenta entrar por ella",
+        "ru": "Люди иногда путаются и думают, что вход там"
+    },
+    "100": {
+        "en": "Alright then",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Vale",
+        "ru": "Ладно, давай"
+    },
+    "101": {
+        "en": "I'll be quick",
+        "choices": [
+            "102"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Un segundo y estoy contigo",
+        "ru": "Я быстро"
+    },
+    "102": {
+        "en": "You're gonna see it's nothing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Verás que no es nada",
+        "ru": "Вот увидишь, там никого"
+    },
+    "103": {
+        "en": "I sure hope so",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Eso espero",
+        "ru": "Очень надеюсь"
+    },
+    "104": {
+        "en": "I'm getting there",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Ya estoy llegando",
+        "ru": "Подхожу"
+    },
+    "105": {
+        "en": "Hmm... the back door is open",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Hmm... la puerta trasera está abierta",
+        "ru": "Хмм... тут дверь открыта"
+    },
+    "106": {
+        "en": "Sometimes Samantha leaves it open when she goes out to smoke but I can't see her",
+        "choices": [
+            "107"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "A veces Samantha la deja abierta cuando sale a fumar pero no la veo",
+        "ru": "Саманта иногда оставляет дверь открытой когда выходит покурить, но ее здесь нет"
+    },
+    "107": {
+        "en": "Don't you think she just forgot to close the door when she came back?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿No crees que se ha olvidado de cerrar la puerta al volver?",
+        "ru": "Может, она просто забыла закрыть"
+    },
+    "108": {
+        "en": "I don't know, maybe",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No lo sé, tal vez",
+        "ru": "Не знаю, возможно"
+    },
+    "109": {
+        "en": "I'm calling her but nothing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Le estoy llamando pero nada",
+        "ru": "Я ей звоню, но она не берет"
+    },
+    "110": {
+        "en": "God, this girl makes me so mad!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Dios, esta chica me cabrea!",
+        "ru": "Как же она меня достала!"
+    },
+    "111": {
+        "en": "How is she gonna leave the door open?",
+        "choices": [
+            "112"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Cómo pudo haber dejado la puerta abierta?",
+        "ru": "Как можно было не запереть дверь?"
+    },
+    "112": {
+        "en": "She sounds like a pest",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Es una pesada, ¿no?",
+        "ru": "Она тебя бесит?"
+    },
+    "113": {
+        "en": "She is! I often wish she was gone you know",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Lo es! A menudo deseo que se vaya, ya sabes",
+        "ru": "Еще как! Мне иногда хочется, чтобы ее вообще здесь не было"
+    },
+    "114": {
+        "en": "Ok, going back to the reception",
+        "choices": [
+            "115"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Ok, volviendo a la recepción",
+        "ru": "Ладно, пойду обратно к стойке"
+    },
+    "115": {
+        "en": "Good, I'll be there in 20 mins",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Bien, estaré allí en 20 minutos",
+        "ru": "Хорошо, я буду минут через 20"
+    },
+    "116": {
+        "en": "That's good to hear!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Me alegra saberlo!",
+        "ru": "Отлично!"
+    },
+    "117": {
+        "en": "Oh damn, my night suuuuuucks!",
+        "choices": [
+            "118"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Dios, mi noche es una mieeeerdaaaa!",
+        "ru": "Господи, какая же отстойная ночь!"
+    },
+    "118": {
+        "en": "Gee thanks lol",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Gracias lol",
+        "ru": "Лол, спасибо"
+    },
+    "119": {
+        "en": "Not you ofc!",
+        "choices": [
+            "120"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Tú no, por supuesto!",
+        "ru": "Да я не о тебе!"
+    },
+    "120": {
+        "en": "What happened?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué ha pasado?",
+        "ru": "Что случилось?"
+    },
+    "121": {
+        "en": "For some odd reason the internet is not working",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No sé por qué pero el WiFi no funciona",
+        "ru": "Интернет отрубился"
+    },
+    "122": {
+        "en": "Neither is the telephone",
+        "choices": [
+            "123"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Tampoco el teléfono",
+        "ru": "И рабочий телефон тоже"
+    },
+    "123": {
+        "en": "Uhh maybe Samantha cut the line so that you can't talk to anyone",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Uhh quizás Samantha cortó la línea para que no puedas hablar con nadie",
+        "ru": "Ого, может, это Саманта всё отключила, чтобы ты ни с кем не общалась?"
+    },
+    "124": {
+        "en": "😖",
+        "choices": [
+            "125"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😖",
+        "ru": "😖"
+    },
+    "125": {
+        "en": "Maybe she's planning to murder you",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Tal vez ella está planeando asesinarte",
+        "ru": "А вдруг она хочет убить тебя"
+    },
+    "126": {
+        "en": "Stop! It's not funny!",
+        "choices": [
+            "127"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡Cállate! ¡No es gracioso!",
+        "ru": "Хватит, вообще не смешно!"
+    },
+    "127": {
+        "en": "Dont worry! You got data anyways",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¡No te preocupes! Tienes datos de teléfono de todos modos",
+        "ru": "Да не волнуйся, у тебя ведь есть интернет на телефоне"
+    },
+    "128": {
+        "en": "I know, it's not that",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Lo sé, no es eso",
+        "ru": "Знаю, не в этом дело"
+    },
+    "129": {
+        "en": "It's just that I don't want to spend all my data",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Es que no quiero gastar todos mis datos",
+        "ru": "Я не хочу расходовать трафик"
+    },
+    "130": {
+        "en": "Plus my boss will blame me about it",
+        "choices": [
+            "131"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Además mi jefe me va a echar la culpa de ello",
+        "ru": "И начальник сто процентов обвинит меня во всем"
+    },
+    "131": {
+        "en": "Hey, it will get fixed in less than 5 minutes… You know how internet is",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Oye, se arreglará en menos de 5. Ya sabes cómo es internet",
+        "ru": "С интернетом часто такие перебои... Не переживай, мы все починим за пару минут."
+    },
+    "132": {
+        "en": "No, I don't think so",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No lo creo, no",
+        "ru": "Не думаю"
+    },
+    "133": {
+        "en": "The router cable is cut",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "El cable del router está cortado",
+        "ru": "Провод роутера перерезан"
+    },
+    "134": {
+        "en": "So is the phone one",
+        "choices": [
+            "135"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "También el del teléfono",
+        "ru": "И телефонный провод тоже"
+    },
+    "135": {
+        "en": "Who would do that?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Quién podría haber hecho eso?",
+        "ru": "Кто мог это сделать?"
+    },
+    "136": {
+        "en": "I don't know",
+        "choices": [
+            "137"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No lo sé",
+        "ru": "Не знаю  "
+    },
+    "137": {
+        "en": "Are you sure it wasn't damaged before?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Estás segura de que no estaba dañado antes?",
+        "ru": "Ты уверена, что провод до этого не был поврежден?"
+    },
+    "138": {
+        "en": "No, it wasn't!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¡No, no lo estaba!",
+        "ru": "Нет, не был!"
+    },
+    "139": {
+        "en": "I need to find Samantha",
+        "choices": [
+            "140"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Necesito encontrar a Samantha",
+        "ru": "Надо найти Саманту"
+    },
+    "140": {
+        "en": "Wait a minute… Why don't you call someone else?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Espera un minuto… ¿Por qué no llamas a alguien más?",
+        "ru": "Постой, лучше кому-нибудь позвони"
+    },
+    "141": {
+        "en": "Who?",
+        "choices": [
+            "142"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿A quién?",
+        "ru": "Кому?"
+    },
+    "142": {
+        "en": "Your boss? The police? It just seems very weird that someone cut the cables all of a sudden",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿A tu jefe? ¿A la policía? Es que me parece muy raro que alguien corte los cables de repente",
+        "ru": "Начальнику, в полицию... Просто странно, что кто-то вот так взял и перерезал провода"
+    },
+    "143": {
+        "en": "😰",
+        "choices": [
+            "144"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😰",
+        "ru": "😰"
+    },
+    "144": {
+        "en": "I'm on my way anyways but I think you need some help",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Voy de camino pero creo que necesitas ayuda",
+        "ru": "Я уже иду, но мне кажется, тебе нужна помощь"
+    },
+    "145": {
+        "en": "Why? Are you implying there's someone else in here?",
+        "choices": [
+            "146"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "¿Por qué? ¿Crees que puede haber alguien más aquí?",
+        "ru": "Почему? Намекаешь на то, что здесь может быть кто-то еще?"
+    },
+    "146": {
+        "en": "I don't know",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "No lo sé",
+        "ru": "Не знаю"
+    },
+    "147": {
+        "en": "I need to find Samatha first anyways",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "De todos modos, necesito encontrar a Samatha primero",
+        "ru": "Сперва я все-таки поищу Саманту"
+    },
+    "148": {
+        "en": "I'm going to look for her upstairs",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Voy a buscarla arriba",
+        "ru": "Пойду наверх"
+    },
+    "149": {
+        "en": "She normally is in the changing room",
+        "choices": [
+            "150"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Normalmente está en el vestuario",
+        "ru": "Наверное, она в раздевалке"
+    },
+    "150": {
+        "en": "I don't think it's safe",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "No creo que sea seguro",
+        "ru": "Мне кажется, это небезопасно"
+    },
+    "151": {
+        "en": "I got something to defend myself, just in case",
+        "choices": [
+            "152"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Tengo algo para defenderme, por si acaso",
+        "ru": "У меня есть кое-что для защиты"
+    },
+    "152": {
+        "en": "What is it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué es?",
+        "ru": "Что именно?"
+    },
+    "153": {
+        "en": "It doesn't matter I'm not gonna use it",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No importa, no lo voy a usar",
+        "ru": "Неважно, я не собираюсь это использовать"
+    },
+    "154": {
+        "en": "It's just in case",
+        "choices": [
+            "155"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Es por si acaso",
+        "ru": "Это на всякий случай"
+    },
+    "155": {
+        "en": "We should call someone. Maybe someone who can get there before me",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Deberíamos llamar a alguien. Tal vez a alguien que pueda llegar antes que yo",
+        "ru": "Давай позвоним кому-нибудь. Вдруг кто-то доберется туда раньше меня"
+    },
+    "156": {
+        "en": "...",
+        "choices": [
+            "157"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "...",
+        "ru": "..."
+    },
+    "157": {
+        "en": "Hello? Reina?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Hola? Reina?",
+        "ru": "Рейна? Ты здесь?"
+    },
+    "158": {
+        "en": "It looks so creepy upstairs",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Se ve tan espeluznante aquí arriba",
+        "ru": "Здесь наверху так жутко"
+    },
+    "159": {
+        "en": null,
+        "choices": [
+            "160"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aln2.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": null,
+        "ru": null
+    },
+    "160": {
+        "en": "Reina just go back, get out of there, grab your car and leave",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Reina, por favor, vuelve, sal de ahí, coge tu coche y vete",
+        "ru": "Рейна, уходи, оттуда. Садись в машину и уезжай"
+    },
+    "161": {
+        "en": "Omg",
+        "choices": [
+            "162"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Omg",
+        "ru": "О боже"
+    },
+    "162": {
+        "en": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "What?",
+        "ru": "Что?"
+    },
+    "163": {
+        "en": "It's Sam",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Es Sam",
+        "ru": "Сэм"
+    },
+    "164": {
+        "en": "She's on the floor bleeding",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Está en el suelo sangrando",
+        "ru": "Она на полу, вся в крови"
+    },
+    "165": {
+        "en": "She's dead",
+        "choices": [
+            "166"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Está muerta",
+        "ru": "Она мертва"
+    },
+    "166": {
+        "en": "Get out",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Sal de ahí",
+        "ru": "Уходи оттуда"
+    },
+    "167": {
+        "en": "Someone is coming",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Viene alguien",
+        "ru": "Кто-то идет"
+    },
+    "168": {
+        "en": "He's the other side of the hallway",
+        "choices": [
+            "169"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Está al otro lado del pasillo",
+        "ru": "Он в другом конце коридора"
+    },
+    "169": {
+        "en": "Run as fast as you can!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¡Corre tan rápido como puedas!",
+        "ru": "Беги оттуда быстро!"
+    },
+    "170": {
+        "en": "😫",
+        "choices": [
+            "171"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "😫",
+        "ru": "😫"
+    },
+    "171": {
+        "en": "You can do it baby! I'm calling the police",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Puedes hacerlo, cariño. Voy a llamar a la policía",
+        "ru": "У тебя получится, малыш! Я звоню в полицию"
+    },
+    "172": {
+        "en": "<i><b>3 minutes later...</b></i>",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 5.0,
+        "voice": null,
+        "event": null,
+        "es": "<i><b>3 minutos después...</b></i>",
+        "ru": "<i><b>3 минуты спустя...</b></i>"
+    },
+    "173": {
+        "en": "I'm out",
+        "choices": [
+            "174"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Estoy fuera",
+        "ru": "Я на улице"
+    },
+    "174": {
+        "en": "Good, I'm going to grab a taxi",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Bien, voy a coger un taxi",
+        "ru": "Отлично, я беру такси"
+    },
+    "175": {
+        "en": "I'm going to hide near the lake",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Me voy a esconder cerca del lago",
+        "ru": "Я спрячусь у озера"
+    },
+    "176": {
+        "en": "The man is still inside",
+        "choices": [
+            "177"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "El hombre sigue dentro",
+        "ru": "Тот человек еще внутри"
+    },
+    "177": {
+        "en": "Good maybe hide where the boats are",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Bien, escóndete entre los barcos",
+        "ru": "Хорошо, спрячься там, где лодки"
+    },
+    "178": {
+        "en": "Fuck",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Mierda",
+        "ru": "О черт"
+    },
+    "179": {
+        "en": null,
+        "choices": [
+            "180"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "aln3.jpg",
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": null,
+        "ru": null
+    },
+    "180": {
+        "en": "Is that another man? Reina?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Es otro hombre? ¿Reina?",
+        "ru": "Там кто-то еще? Рейна?"
+    },
+    "181": {
+        "en": "Imsjh jkl",
+        "choices": [
+            "182"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Imsjh jkl",
+        "ru": "Эьал неоатл"
+    },
+    "182": {
+        "en": "Reina sweetie? Calling the police again",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Reina, cariño? Estoy llamando a la policía",
+        "ru": "Рейна? Дорогая? Звоню в полицию еще раз"
+    },
+    "183": {
+        "en": "...",
+        "choices": [
+            "184"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "...",
+        "ru": "..."
+    },
+    "184": {
+        "en": "Reina? You okay?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Reina? ¿Estás bien?",
+        "ru": "Рейна? Ты в порядке?"
+    },
+    "185": {
+        "en": "I didn't want to but I had to he had a gun too",
+        "choices": [
+            "186"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "No quería pero tenía que hacerlo, él también tenía una pistola",
+        "ru": "Я не хотела, но у него тоже был пистолет"
+    },
+    "186": {
+        "en": "What did you do?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Qué has hecho?",
+        "ru": "Что ты сделала?"
+    },
+    "187": {
+        "en": "I defended myself",
+        "choices": [
+            "188"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Me defendí",
+        "ru": "Защитила себя"
+    },
+    "188": {
+        "en": "Is he...?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "¿Está...?",
+        "ru": "Он...?"
+    },
+    "189": {
+        "en": "Yes",
+        "choices": [
+            "190"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Sí",
+        "ru": "Да"
+    },
+    "190": {
+        "en": "You did what you had to do. Now stay where you are and wait for the police",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Hiciste lo que tenías que hacer. Ahora quédate donde estás y espera a la policía",
+        "ru": "Ты сделала то, что должна была. Оставайся на месте и жди полицейских"
+    },
+    "191": {
+        "en": "It's awful",
+        "choices": [
+            "192"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": 3.0,
+        "voice": null,
+        "event": null,
+        "es": "Es horrible",
+        "ru": "Это ужасно"
+    },
+    "192": {
+        "en": "But you're alive and that's what matters. I'm proud of you",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "Pero estás viva y eso es lo que importa. Estoy orgulloso de ti",
+        "ru": "Но ты жива, и это главное. Я горжусь тобой."
+    },
+    "193": {
+        "en": "\uD83E\uDD15",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "delay": null,
+        "voice": null,
+        "event": null,
+        "es": "\uD83E\uDD15",
+        "ru": "\uD83E\uDD15"
+    }
+}

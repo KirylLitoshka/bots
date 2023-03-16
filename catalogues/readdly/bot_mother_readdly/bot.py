@@ -1,8 +1,11 @@
-import pathlib
 import os
+import pathlib
+
 from aiogram import Bot, Dispatcher
+
 from catalogues.readdly.bot_mother_readdly.commands import set_bot_commands
-from catalogues.readdly.bot_mother_readdly.handlers import show_menu, switch_language
+from catalogues.readdly.bot_mother_readdly.handlers import (show_menu,
+                                                            switch_language)
 from handlers.readdly.utils import choose_language
 from utils.loaders import load_users
 

@@ -1,9 +1,11 @@
-import aiofiles
 import json
-from handlers.readdly.messages import get_user_language
-from catalogues.readdly.bot_mother_readdly.messages import MENU_MESSAGE
 from datetime import datetime
+
+import aiofiles
 from aiogram import Dispatcher, types
+
+from catalogues.readdly.bot_mother_readdly.messages import MENU_MESSAGE
+from handlers.readdly.messages import get_user_language
 
 
 def get_referral_type(message: str):

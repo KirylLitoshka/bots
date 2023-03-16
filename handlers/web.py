@@ -1,5 +1,5 @@
-from aiohttp import web
 from aiogram import Bot, Dispatcher, types
+from aiohttp import web
 
 
 async def proceed_update(req: web.Request):

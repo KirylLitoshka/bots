@@ -3,9 +3,9 @@ import logging
 import sys
 
 from aiohttp import web
-from config import settings
 
 from base.app import main_app
+from config import settings
 
 if __name__ == "__main__":
     if sys.platform == "win32":

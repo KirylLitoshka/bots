@@ -1,6 +1,7 @@
 from aiohttp import web
+
+from config import dispatchers, settings
 from handlers.web import proceed_update
-from config import settings, dispatchers
 
 
 async def on_sub_startup(app):

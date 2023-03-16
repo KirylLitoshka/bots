@@ -1,6 +1,4 @@
-import os
-from config import settings
-from config import tokens
+from config import settings, tokens
 
 
 def get_base_url():

@@ -1,7 +1,9 @@
 import asyncio
+
 from aiogram import types
-from catalogues.policy.profiles import Profile
+
 from catalogues.policy.handlers import ACTIVITY_FIELDS
+from catalogues.policy.profiles import Profile
 from catalogues.policy.storage import create_new_user
 
 

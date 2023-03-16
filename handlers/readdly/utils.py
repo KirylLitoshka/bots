@@ -1,7 +1,8 @@
 from aiogram import Dispatcher
 from aiogram.types import BotCommand
 
-from handlers.readdly.handlers import back_to_root_bot, echo, restart, choose_language, switch_language
+from handlers.readdly.handlers import (back_to_root_bot, choose_language, echo,
+                                       restart, switch_language)
 from utils.loaders import load_dialogs, load_users
 
 

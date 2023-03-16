@@ -1,6 +1,9 @@
 from aiogram import Bot, Dispatcher
-from handlers.readdly.utils import register_handlers, register_commands, prepare_dispatcher_data
-from catalogues.readdly.bot_josh.config.setting import DEFAULT_USER_MODEL, STORAGE_DIRS
+
+from catalogues.readdly.bot_josh.config.setting import (DEFAULT_USER_MODEL,
+                                                        STORAGE_DIRS)
+from handlers.readdly.utils import (prepare_dispatcher_data, register_commands,
+                                    register_handlers)
 
 
 async def josh_bot(api_token):

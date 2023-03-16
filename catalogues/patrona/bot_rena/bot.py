@@ -1,7 +1,8 @@
 from aiogram import Bot, Dispatcher
+
 from catalogues.patrona.bot_rena.config import setting
-from handlers.patrona.registrars import register_handlers, register_commands
-from utils.loaders import load_users, load_dialogs
+from handlers.patrona.registrars import register_commands, register_handlers
+from utils.loaders import load_dialogs, load_users
 
 
 async def rena_bot(api_token):

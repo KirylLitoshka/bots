@@ -1,5 +1,6 @@
 import aiohttp
 import shortuuid
+
 from catalogues.policy.settings import SITE_DOMAIN, SITE_ID
 
 

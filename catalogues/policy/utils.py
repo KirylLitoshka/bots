@@ -1,12 +1,14 @@
-from catalogues.policy.settings import FILES_DIR, STORAGE_DIR
-from catalogues.policy.client import create_page
-from firebase_admin import credentials, initialize_app
-from aiogram import Dispatcher
-from datetime import datetime, timezone
-import aiofiles
-import os
 import gzip
 import hashlib
+import os
+from datetime import datetime, timezone
+
+import aiofiles
+from aiogram import Dispatcher
+from firebase_admin import credentials, initialize_app
+
+from catalogues.policy.client import create_page
+from catalogues.policy.settings import FILES_DIR, STORAGE_DIR
 
 
 def get_referral_type(message: str):

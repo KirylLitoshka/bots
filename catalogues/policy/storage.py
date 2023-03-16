@@ -1,11 +1,12 @@
 import datetime
+import json
+import os
 
 import aiofiles
-import os
-import json
-from aiogram import types, Dispatcher
-from catalogues.policy.utils import get_referral_type
+from aiogram import Dispatcher, types
+
 from catalogues.policy.settings import STORAGE_DIR
+from catalogues.policy.utils import get_referral_type
 
 
 def load_users(storage_dir: str):

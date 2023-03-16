@@ -18,6 +18,9 @@ async def on_sub_shutdown(app):
     current_session = await dp.bot.get_session()
     if not current_session.closed:
         await current_session.close()
+    if dp.storage is not None:
+        await dp.storage.close()
+        await dp.storage.wait_closed()
 
 
 def init_bot_application(bot):

@@ -43,8 +43,11 @@ async def echo(message: types.Message):
 
 async def back_to_root_bot(message: types.Message, finish: bool = None):
     user_id = str(message.from_user.id)
+    if user_id not in Dispatcher.get_current().data['users']:
+        dp_data = Dispatcher.get_current().data
+        await create_new_user(dp_data, user_id, message.from_user.username)
     user = Dispatcher.get_current().data['users'][user_id]
-    user_language = user["language"]
+    user_language = user.get("language", "en")
     output = {
         "ru": {
             "line": "Больше историй ждет тебя в @el_patrona_bot 💋",
@@ -93,7 +96,10 @@ async def choose_language(message: types.Message):
 
 async def switch_language(query: types.CallbackQuery):
     user_id = str(query.from_user.id)
-    current_user = Dispatcher.get_current().data["users"][user_id]
+    if user_id not in Dispatcher.get_current().data['users']:
+        dp_data = Dispatcher.get_current().data
+        await create_new_user(dp_data, user_id, query.from_user.username)
+    current_user = Dispatcher.get_current().data['users'][user_id]
     current_user["language"] = query.data
     await query.message.answer("Success!")
     await restart(query)

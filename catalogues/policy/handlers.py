@@ -3,6 +3,7 @@ from typing import Union
 
 from aiogram import types
 from aiogram.dispatcher import FSMContext
+
 from catalogues.policy.profiles import Profile, User
 from catalogues.policy.utils import build_policy, build_terms_of_use
 
@@ -58,12 +59,13 @@ async def process_promo_code(message: types.Message, state: FSMContext):
 
 async def main_menu(message: Union[types.Message, types.CallbackQuery], state: FSMContext):
     await asyncio.sleep(1)
+    if isinstance(message, types.CallbackQuery):
+        message = message.message
     async with state.proxy() as data:
         data.pop("is_policy_created", None)
         data.pop("is_terms_created", None)
         data.pop("name", None)
-    if isinstance(message, types.CallbackQuery):
-        message = message.message
+        data.setdefault("user_id", str(message.chat.id))
     keyboard = types.ReplyKeyboardMarkup(
         keyboard=[
             [types.KeyboardButton(text="Создать Privacy Policy")],
@@ -85,9 +87,9 @@ async def create_terms_of_use(message: types.Message, state: FSMContext):
         return await message.delete()
 
     async with state.proxy() as data:
+        user_id = data.get('user_id', str(message.chat.id))
         data["current_document_type"] = "terms"
         data["is_terms_created"] = False
-        user_id = data['user_id']
         if data.get("is_terms_created"):
             del data['name']
         if "name" not in data:
@@ -111,7 +113,7 @@ async def create_privacy_policy(message: Union[types.Message, types.CallbackQuer
         return await message.delete()
 
     async with state.proxy() as data:
-        user_id = data['user_id']
+        user_id = data.get('user_id', str(message.from_user.id))
         data["current_document_type"] = "policy"
         data["is_policy_created"] = False
         if data.get("is_policy_created"):

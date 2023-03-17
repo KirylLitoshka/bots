@@ -219,7 +219,7 @@ async def send_final_message(message: types.Message, state: FSMContext):
             keyboard=[
                 [types.KeyboardButton("Изменить дату и время")],
                 [types.KeyboardButton("Отменить заявку")],
-                [types.KeyboardButton("Вызвать мастера")]                
+                [types.KeyboardButton("Вызвать мастера")]
             ],
             one_time_keyboard=True,
             resize_keyboard=True
@@ -245,7 +245,7 @@ async def process_summary_message(message: types.Message, state: FSMContext):
         await message.answer("Ваша заявка подтверждена, ожидайте сообщения от мастера")
         return await message.bot.send_message(
             chat_id=ADMIN_CHAT_ID,
-            text=output_message 
+            text=output_message
         )
 
 

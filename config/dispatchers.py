@@ -14,6 +14,7 @@ from catalogues.readdly.bot_mother_readdly.bot import readdly_mother_bot
 
 from catalogues.diagnosis.bot import diagnosis_bot
 from catalogues.policy.bot import policy_bot
+from catalogues.appsell.bot import app_sell_bot
 
 DISPATCHERS = {
     "bruna": bruna_bot,
@@ -29,5 +30,6 @@ DISPATCHERS = {
     "reina": reina_bot,
     "readdly": readdly_mother_bot,
     "diagnosis": diagnosis_bot,
-    "policy": policy_bot
+    "policy": policy_bot,
+    "app_sell": app_sell_bot
 }
